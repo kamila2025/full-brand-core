@@ -1,9 +1,1 @@
-// Parallax js
-
-var scenes = document.querySelectorAll(".scene");
-var parallaxInstances = [];
-
-scenes.forEach(function (scene) {
-    var parallaxInstance = new Parallax(scene);
-    parallaxInstances.push(parallaxInstance);
-});
+var scenes=document.querySelectorAll(".scene"),parallaxInstances=[];scenes.forEach(function(a){a=new Parallax(a);parallaxInstances.push(a)});

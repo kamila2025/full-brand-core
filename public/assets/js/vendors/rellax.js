@@ -1,3 +1,1 @@
-// Rellax js
-
-var rellax = new Rellax(".rellax");
+var rellax=new Rellax(".rellax");

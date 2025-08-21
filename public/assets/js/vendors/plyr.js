@@ -1,3 +1,1 @@
-// Plyr
-
-const player = new Plyr("#player");
+const player=new Plyr("#player");
